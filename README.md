@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hexoced
-- 👀 I’m interested in practicing the technology im learning.
+- 👀 I’m interested in practicing the technology i am learning.
 - 🌱 I’m currently learning ASP.NET, C#, Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => martinangeloski@gmail.com
